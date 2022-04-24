@@ -1,0 +1,20 @@
+{
+  "name": "rd-cicd-hooks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@codeup.aliyun.com:6221b716f13646b7effe756a/rd/rd-cicd-hooks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.17.3",
+    "lodash": "^4.17.21"
+  }
+}
